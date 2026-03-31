@@ -1,0 +1,23 @@
+# Environment variables — NEVER commit these
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# Large PDF files (commit small sample ones only)
+docs/*.pdf
+!docs/sample.pdf
+
+# pytest cache
+.pytest_cache/

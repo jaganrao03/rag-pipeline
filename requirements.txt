@@ -1,0 +1,12 @@
+fastapi==0.115.6
+uvicorn==0.34.0
+python-dotenv==1.0.1
+langchain==0.3.14
+langchain-anthropic==0.3.3
+langchain-pinecone==0.2.1
+langchain-community==0.3.14
+pinecone==5.0.1
+pypdf==5.1.0
+tiktoken==0.8.0
+httpx==0.28.1
+pytest==8.3.4
