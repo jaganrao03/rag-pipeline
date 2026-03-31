@@ -295,4 +295,4 @@ All settings are in `src/config.py`:
 
 **Jagan** — BI Developer / Technology Consulting Analyst  
 Building toward AI Engineering.  
-[GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+[GitHub](https://github.com/jaganrao03)
